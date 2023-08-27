@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "shafeefoodorder",
+    "shafi": "shafi-927f1",
+    "foodorder": "foororder-357fc",
+    "shafee": "shafeefoodorder"
+  },
+  "targets": {},
+  "etags": {}
+}
