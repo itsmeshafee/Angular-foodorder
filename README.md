@@ -1,3 +1,10 @@
+#How to run this project
+
+1.clone my repository
+2.run npm i or npm install
+3.ng serve
+You are good to go. Happy Coding.
+
 # Foodorder
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
